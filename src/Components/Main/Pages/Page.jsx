@@ -8,7 +8,7 @@ import Transport from './Transport/Transport';
 
 const Page = () => {
   return (
-    <div className="p-2 grow bg-sky-100">
+    <div className="p-2 grow">
       <Routes>
         <Route path="/" element={<Dashboard></Dashboard>}></Route>
         <Route path="/student" element={<Student></Student>}></Route>

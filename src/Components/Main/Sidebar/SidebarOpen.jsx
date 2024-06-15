@@ -13,7 +13,7 @@ function SidebarOpen() {
     <div className="bg-slate-50 shadow-md p-1 rounded-r-xl mt-3 max-w-fit absolute">
       <div className="rounded-xl bg-blue p-1.5 pointer">
         <Link to="/">
-          <div className="text-xs font-medium bg-slate-50 rounded-md p-1 mb-1 flex justify-start items-center gap-x-1">
+          <div className="text-xs tablet:text-md font-medium bg-slate-50 rounded-md p-1 mb-1 flex justify-start items-center gap-x-1">
             <i className="fa-solid fa-house"></i>
             Dashboard
           </div>

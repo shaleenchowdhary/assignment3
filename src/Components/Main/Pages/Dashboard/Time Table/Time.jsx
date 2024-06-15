@@ -2,7 +2,7 @@ import Classes from './AssignedClasses/Classes';
 import TimeTable from './TimeTable/TimeTable';
 import Assessments from './Assessments/Assessments';
 import Birthdays from './Birthdays/Birthdays';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 
 const Tabledata = [
   {
